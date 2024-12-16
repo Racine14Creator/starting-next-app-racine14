@@ -4,8 +4,8 @@ import React from "react";
 
 export default function not_found() {
   return (
-    <div>
+    <main>
       <h3>Page not found</h3>
-    </div>
+    </main>
   );
 }
